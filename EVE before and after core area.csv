@@ -1,0 +1,26 @@
+Serial Number,Group,Producer + Cell Model,Average,Min Value,Max Value, Unit
+EVE06,2 minutes - 0 cycle,EVE INR18650/33V,12.91,12.823,12.96, mm²
+EVE07,2 minutes - 0 cycle,EVE INR18650/33V,13.131,12.982,13.277, mm²
+EVE08,2 minutes - 0 cycle,EVE INR18650/33V,13.182,13.075,13.314, mm²
+EVE09,2 minutes - 0 cycle,EVE INR18650/33V,12.938,12.831,13.018, mm²
+EVE10,2 minutes - 0 cycle,EVE INR18650/33V,13.135,13.047,13.219, mm²
+EVE011,1 hour - 0 cycle,EVE INR18650/33V,13.078,13.013,13.134, mm²
+EVE012,1 hour - 0 cycle,EVE INR18650/33V,12.939,12.839,13.004, mm²
+EVE013,1 hour - 0 cycle,EVE INR18650/33V,13.217,13.139,13.281, mm²
+EVE014,1 hour - 0 cycle,EVE INR18650/33V,12.842,12.758,12.898, mm²
+EVE015,1 hour - 0 cycle,EVE INR18650/33V,12.77,12.645,12.851, mm²
+2m X-ray_01_136,2 minutes - 300 cycles,EVE INR18650/33V,12.102,11.985,12.255, mm²
+2m X-ray_02_137,2 minutes - 300 cycles,EVE INR18650/33V,12.361,12.267,12.536, mm²
+2m X-ray_03_138,2 minutes - 300 cycles,EVE INR18650/33V,12.439,12.354,12.541, mm²
+2m X-ray_04_139,2 minutes - 300 cycles,EVE INR18650/33V,12.239,12.106,12.441, mm²
+2m X-ray_05_140,2 minutes - 300 cycles,EVE INR18650/33V,12.37,12.272,12.464, mm²
+No X-ray_01_131,No X-ray - 300 cycles,EVE INR18650/33V,12.097,11.767,12.363, mm²
+No X-ray_02_132,No X-ray - 300 cycles,EVE INR18650/33V,11.74,11.656,11.905, mm²
+No X-ray_03_133,No X-ray - 300 cycles,EVE INR18650/33V,12.277,12.189,12.461, mm²
+No X-ray_04_134,No X-ray - 300 cycles,EVE INR18650/33V,12.297,12.191,12.417, mm²
+No X-ray_05_135,No X-ray - 300 cycles,EVE INR18650/33V,12.247,12.157,12.344, mm²
+1H X-ray_01_141,1 hour - 300 cycles,EVE INR18650/33V,12.42,12.339,12.629, mm²
+1H X-ray_02_142,1 hour - 300 cycles,EVE INR18650/33V,12.234,12.167,12.331, mm²
+1H X-ray_03_143,1 hour - 300 cycles,EVE INR18650/33V,12.358,12.276,12.491, mm²
+1H X-ray_04_144,1 hour - 300 cycles,EVE INR18650/33V,12.096,11.998,12.236, mm²
+1H X-ray_05_145,1 hour - 300 cycles,EVE INR18650/33V,11.984,11.85,12.165, mm²
